@@ -1,7 +1,7 @@
 # Machine Learning and Data Mining (MLDM) Project
 
 ## Project Overview
-This project explores multiple machine learning algorithms applied to two classification problems:
+Data preprocessing, Decision Tree, and MLP models were developed for weather and diabetes prediction using Python, scikit-learn, pandas, and Jupyter Notebook. Feature engineering, pruning, and hyperparameter tuning were applied to optimize accuracy. The datasets were sourced from Kaggle, and models were evaluated using classification metrics and cross-validation techniques.s:
 1. **Weather Prediction**: Predicting whether it will rain tomorrow using the [Rain in Australia dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package).
 2. **Diabetes Prediction**: Predicting the presence of diabetes using the [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database).
 
