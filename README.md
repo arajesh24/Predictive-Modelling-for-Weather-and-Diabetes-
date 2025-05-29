@@ -1,9 +1,9 @@
 
 # Predictive Modelling for Weather and Diabetes
 
-This project explores the use of machine learning techniques—**Decision Tree** and **Multi-Layer Perceptron (MLP)**—to predict outcomes on two distinct datasets: weather conditions and diabetes diagnosis.
+This project explores the use of machine learning techniques **Decision Tree** and **Multi-Layer Perceptron (MLP)** : to predict outcomes on two distinct datasets: weather conditions and diabetes diagnosis.
 
-## 📁 Project Structure
+## Project Structure
 ```
 ├── Weather_Prediction
 │   ├── Weather_DecisionTree.ipynb           # Weather prediction using Decision Tree
@@ -14,19 +14,19 @@ This project explores the use of machine learning techniques—**Decision Tree**
 │   ├── Diabetes_MLP.ipynb                   # Diabetes prediction using MLP
 ```
 
-## 🎯 Objective
+## Objective
 To compare and evaluate two classification models (Decision Tree and MLP) across weather and medical datasets, focusing on prediction accuracy, model complexity, and generalizability.
 
-## 🧪 Models Used
+## Models Used
 - **Decision Tree Classifier**
 - **Multi-Layer Perceptron (MLP)**
 
 Each model was applied to:
 
-- 🌦️ **Weather Data**: Predicting rainy vs. non-rainy days
-- 🩺 **Diabetes Data**: Predicting the likelihood of diabetes diagnosis
+-  **Weather Data**: Predicting rainy vs. non-rainy days
+-  **Diabetes Data**: Predicting the likelihood of diabetes diagnosis
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 - Python 3.x
 - Jupyter Notebooks
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
@@ -37,7 +37,7 @@ Each model was applied to:
 - Classification Report (Precision, Recall, F1-Score)
 - ROC Curve (where applicable)
 
-## 📝 Summary of Results
+## Summary of Results
 | Dataset   | Model         | Accuracy (approx) |
 |-----------|----------------|------------------|
 | Weather   | Decision Tree  | 80–90%           |
@@ -45,12 +45,12 @@ Each model was applied to:
 | Diabetes  | Decision Tree  | 75–85%           |
 | Diabetes  | MLP            | 80–90%           |
 
-## 🧠 Key Learnings
+## Key Learnings
 - Decision Trees are interpretable and effective for quick predictions.
 - MLPs provide higher accuracy but require more computational resources.
 - Feature scaling and data preprocessing were crucial for MLP performance.
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### 1. Download the Repository
 - Click the "Download" button on the repository page.
@@ -73,6 +73,6 @@ Each model was applied to:
 - Modify file paths in the notebook if needed.
 
 ## 👨‍💻 Author
-Rajesh A  
+Anisha Rajesh 
 MSc Data Science  
-[GitHub Profile](https://github.com/arajesh24)
+University of Surrey
